@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 /**
+ * 全局配置文件server
  * @author cfn
  */
 @EnableConfigServer
